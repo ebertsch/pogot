@@ -1,7 +1,7 @@
 {
   "name": "pogot",
   "description": "A CLI utility for Pokemon Go data",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "author": "Ezra Bertsch @ebertsch",
   "bin": {
     "pogot": "./bin/run"
