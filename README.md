@@ -19,7 +19,7 @@ $ npm install -g pogot
 $ pogot COMMAND
 running command...
 $ pogot (-v|--version|version)
-pogot/0.0.0 darwin-x64 node-v12.14.1
+pogot/0.0.3 darwin-x64 node-v12.14.1
 $ pogot --help [COMMAND]
 USAGE
   $ pogot COMMAND
